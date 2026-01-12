@@ -17,7 +17,7 @@ st.markdown(f"""
     .stApp {{
         background-image: url("{background_url}");
         background-attachment: fixed;
-        background-size: cover;
+        background-size: contain; background-repeat: no-repeat; background-color: #000000;
         background-position: center;
     }}
     /* Limpieza de interfaz */
