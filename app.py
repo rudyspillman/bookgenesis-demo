@@ -64,9 +64,6 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 # --- INTERFAZ ---
-st.markdown("<h1 style='text-align: center; font-size: 3.5rem;'>BookGENESIS</h1>", unsafe_allow_html=True)
-st.markdown("<h3 style='text-align: center;'>Génesis del Libro</h3>", unsafe_allow_html=True)
-
 st.markdown("<br>", unsafe_allow_html=True)
 
 # Input del Usuario
